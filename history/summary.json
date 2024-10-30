@@ -22,19 +22,19 @@
     "url": "$PLEX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
-    "status": "down",
-    "uptime": "93.01%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "93.01%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "92.64%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "92.64%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "92.64%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-10-30": 84
+      "2024-10-30": 89
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$REQUEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 400,
-    "timeDay": 400,
-    "timeWeek": 400,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-10-30": 0
+      "2024-10-30": 5
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "$MEALS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meal-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 216,
-    "timeDay": 216,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-10-30": 0
+      "2024-10-30": 5
     }
   }
 ]
