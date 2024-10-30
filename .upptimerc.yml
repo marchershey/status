@@ -4,61 +4,77 @@ repo: status # The name of this repository
 
 sites:
 
-  # # Home Network
-  # - name: Home Network
-  #   url: $HOME
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #   - 200
+  - name: Home Network
+    url: $NAS_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "This page can't be displayed"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: https://i.imgur.com/J3CpIgL.png
 
-  # Plex Server
   - name: Plex Server
-    url: $PLEX
+    url: $PLEX_URL
     maxResponseTime: 5000
     expectedStatusCodes:
-    - 200
-  
-  # Request App
+      - 401
+    __dangerous__body_down_if_text_missing: "401 Unauthorized"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: https://i.imgur.com/ZhsVi8z.png
+
   - name: Request App
-    url: $REQUEST
+    url: $REQUEST_URL
     maxResponseTime: 5000
     expectedStatusCodes:
-    - 200
+      - 200
+    __dangerous__body_down_if_text_missing: "Sign In - Overseerr"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: https://i.imgur.com/4vmoxzS.png
 
-  # MEALS
-  - name: Meals Database
-    url: $MEALS
+  - name: Radarr
+    url: $RADARR_URL
     maxResponseTime: 5000
     expectedStatusCodes:
-    - 200
+      - 200
+    __dangerous__body_down_if_text_missing: "SIGN IN TO CONTINUE"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: 
 
-  # # Plex Watcher
-  # - name: Plex Watcher
-  #   url: $STATS
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #   - 200
+  - name: Sonarr
+    url: $SONARR_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "SIGN IN TO CONTINUE"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: 
 
-  # # Series Backend
-  # - name: Series Backend
-  #   url: $SERIES
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #   - 200
+  - name: Download Server
+    url: $DOWNLOADER_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "Log in"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: 
 
-  # # Movies Backend
-  # - name: Movies Backend
-  #   url: $MOVIES
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #   - 200
+  - name: Plex Watcher
+    url: $PLEXSTATS_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "Sign In with Tautulli"
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: 
 
-  # # Downloader
-  # - name: Media Downloader
-  #   url: $DOWNLOADER
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #   - 200
+  - name: Meal Server
+    url: $MEALS_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "Loading..."
+    __dangerous__body_degraded: "the page you are looking for is not found"
+    # icon: 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
