@@ -22,19 +22,19 @@
     "url": "$PLEX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
-    "status": "down",
-    "uptime": "96.15%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "96.15%",
-    "time": 234,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "status": "up",
+    "uptime": "93.96%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "93.96%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "93.96%",
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-10-30": 21
+      "2024-10-30": 33
     }
   },
   {
