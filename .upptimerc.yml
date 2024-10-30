@@ -11,15 +11,12 @@ sites:
   #   expectedStatusCodes:
   #   - 200
 
-  # # Plex Server
-  # - name: Plex Server
-  #   url: $PLEX
-  #   headers:
-  #     - "Content-Type: application/json"
-  #     - "X-Plex-Token: $PLEX_TOKEN"
-  #   maxResponseTime: 5000
-  #   expectedStatusCodes:
-  #   - 200
+  # Plex Server
+  - name: Plex Server
+    url: $PLEX
+    maxResponseTime: 5000
+    expectedStatusCodes:
+    - 200
   
   # Request App
   - name: Request App
