@@ -1,7 +1,7 @@
 url: $MEALS_URL
-status: down
-code: 502
-responseTime: 219
-lastUpdated: 2024-10-30T23:52:09.549Z
+status: up
+code: 200
+responseTime: 174
+lastUpdated: 2024-10-30T23:57:08.880Z
 startTime: 2024-10-30T05:03:51.551Z
 generator: Upptime <https://github.com/upptime/upptime>
