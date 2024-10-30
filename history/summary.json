@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
     "status": "down",
-    "uptime": "94.66%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "94.66%",
+    "uptime": "93.01%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "93.01%",
     "time": 220,
     "timeDay": 220,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-10-30": 63
+      "2024-10-30": 84
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "$REQUEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 400,
     "timeDay": 400,
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "Radarr",
@@ -132,17 +134,19 @@
     "url": "$MEALS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meal-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   }
 ]
