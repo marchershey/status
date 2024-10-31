@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "92.64%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "92.64%",
-    "uptimeMonth": "92.64%",
-    "uptimeYear": "92.64%",
+    "uptime": "92.81%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "92.81%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-app",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 401,
     "timeWeek": 401,
     "timeMonth": 401,
     "timeYear": 401,
-    "dailyMinutesDown": {
-      "2024-10-30": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -135,18 +133,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meal-server",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2024-10-30": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
