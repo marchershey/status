@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-network",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "46.00%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.77%",
+    "uptimeDay": "45.06%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "98.77%",
     "time": 953,
     "timeDay": 464,
     "timeWeek": 810,
     "timeMonth": 945,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2024-12-13": 778
+      "2024-12-13": 791
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "$PLEX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.86%",
     "time": 226,
     "timeDay": 205,
@@ -36,6 +36,7 @@
     "timeMonth": 227,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2024-12-13": 3,
       "2024-10-30": 89
     }
   },
@@ -44,18 +45,19 @@
     "url": "$REQUEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-app",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.68%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.67%",
     "time": 481,
     "timeDay": 349,
     "timeWeek": 426,
     "timeMonth": 516,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2024-12-13": 3,
       "2024-11-14": 850
     }
   },
@@ -64,10 +66,10 @@
     "url": "$RADARR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
@@ -75,17 +77,19 @@
     "timeWeek": 234,
     "timeMonth": 270,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 2
+    }
   },
   {
     "name": "Sonarr",
     "url": "$SONARR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
@@ -93,17 +97,19 @@
     "timeWeek": 224,
     "timeMonth": 255,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 2
+    }
   },
   {
     "name": "Download Server",
     "url": "$DOWNLOADER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "download-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
@@ -111,7 +117,9 @@
     "timeWeek": 221,
     "timeMonth": 249,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 1
+    }
   },
   {
     "name": "Plex Watcher",
@@ -119,18 +127,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-watcher",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 225,
     "timeDay": 168,
     "timeWeek": 220,
     "timeMonth": 221,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-12-13": 1
+      "2024-12-13": 14
     }
   },
   {
@@ -139,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meal-server",
     "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.66%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.66%",
     "time": 213,
     "timeDay": 140,
     "timeWeek": 184,
     "timeMonth": 221,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-12-13": 0,
+      "2024-12-13": 14,
       "2024-11-14": 849
     }
   }
