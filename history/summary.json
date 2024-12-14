@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-network",
     "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "21.72%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "98.25%",
+    "uptime": "97.89%",
+    "uptimeDay": "4.94%",
+    "uptimeWeek": "86.42%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "97.89%",
     "time": 953,
     "timeDay": 0,
     "timeWeek": 695,
     "timeMonth": 941,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2024-12-14": 27,
+      "2024-12-14": 268,
       "2024-12-13": 1100
     }
   },
@@ -46,11 +46,11 @@
     "url": "$REQUEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "request-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "98.68%",
     "time": 477,
     "timeDay": 365,
@@ -58,6 +58,7 @@
     "timeMonth": 499,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2024-12-14": 3,
       "2024-12-13": 6,
       "2024-11-14": 850
     }
@@ -127,10 +128,10 @@
     "url": "$PLEXSTATS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-watcher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 219,
@@ -139,6 +140,7 @@
     "timeMonth": 210,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2024-12-14": 2,
       "2024-12-13": 17
     }
   },
@@ -147,11 +149,11 @@
     "url": "$MEALS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meal-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "98.02%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "98.66%",
     "time": 212,
     "timeDay": 184,
@@ -159,6 +161,7 @@
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2024-12-14": 0,
       "2024-12-13": 17,
       "2024-11-14": 849
     }
