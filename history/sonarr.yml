@@ -1,7 +1,7 @@
 url: $SONARR_URL
 status: down
 code: 403
-responseTime: 170
-lastUpdated: 2025-02-05T04:05:46.138Z
+responseTime: 306
+lastUpdated: 2025-02-05T23:05:41.161Z
 startTime: 2024-10-30T05:02:17.904Z
 generator: Upptime <https://github.com/upptime/upptime>
